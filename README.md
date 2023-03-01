@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marlenaanna
-- 👀 I’m interested in web development at the moment
-- 🌱 I’m currently learning HTML and CSS with JavaScript to follow
+- 👀 I’m interested in building energy modelling
+- 🌱 I’m currently learning data analysis in python
 ..
 
 <!---
