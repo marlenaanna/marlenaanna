@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @marlenaanna
 - 👀 I’m interested in building energy modelling
 - 🌱 I’m currently learning data analysis in python
 ..
